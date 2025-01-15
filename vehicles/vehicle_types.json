@@ -1,0 +1,15 @@
+{
+    "vehicle_types": [
+        "Auto",
+        "Pickup y Comerciales",
+        "SUVs y Crossovers",
+        "Sedan",
+        "Hatchback",
+        "Coupé",
+        "Convertible",
+        "Minivan",
+        "Camioneta",
+        "Eléctrico",
+        "Híbrido"
+    ]
+}
