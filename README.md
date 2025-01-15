@@ -10,7 +10,7 @@ Este es el backend de la aplicación de gestión de vehículos para Agencia EGO.
 
 1. Clonar el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/agencia-ego.git
+    git clone git@github.com:EstefaniaDel/agenciaEGO.git
     cd agencia-ego
     ```
 
